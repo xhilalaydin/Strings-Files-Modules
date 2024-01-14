@@ -1,0 +1,13 @@
+Ankara;Uludag;3.2;675.0
+Istanbul;House Cafe Ortakoy;4.6;1200
+Istanbul;Mikla;4.3;1360
+Istanbul;360;3.7;1545.5
+Ankara;Trilye;4.5;855.5
+Ankara;Recep Usta;4.2;925
+Ankara;Fige Restorant;3.9;778.6
+Ankara;Cafe des Cafes;4.1;432.75
+Ankara;Goksu Restaurant;4.6;618.5
+Izmir;Yengec Restaurant;4.4;910
+Izmir;Cumba Restaurant;3.7;1000
+Izmir;Red Dragon Chinese;4.3;1140.5
+Izmir;Altin Kapi;4.4;641
